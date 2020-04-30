@@ -36,4 +36,4 @@ My personality:
    5. ESTR2002
 
 4. Photo
-![photo](C:\Users\luyij\Desktop\code.png)
+![photo](https://github.com/csci3251-2020/student-1155122235/blob/master/code.png)
