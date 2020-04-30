@@ -36,4 +36,4 @@ My personality:
    5. ESTR2002
 
 4. Photo
-![code](C:\Users\luyij\Desktop\code.png)
+![photo](C:\Users\luyij\Desktop\code.png)
